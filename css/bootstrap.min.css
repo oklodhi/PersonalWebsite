@@ -3123,14 +3123,14 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn-default {
   color: #ffffff;
-  background-color: #95a5a6;
-  border-color: #95a5a6
+  background-color: #314357;
+  border-color: #314357;
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
   color: #ffffff;
-  background-color: #798d8f;
-  border-color: #74898a
+  background-color: #e3b587;
+  border-color: #314357;
 }
 
 .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
@@ -3181,8 +3181,8 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
   color: #ffffff;
-  background-color: #128f76;
-  border-color: #11866f
+  background-color: #314357;
+  border-color: #e3b587
 }
 
 .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
